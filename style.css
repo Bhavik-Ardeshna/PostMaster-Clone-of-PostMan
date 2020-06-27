@@ -1,0 +1,15 @@
+.head{
+  font-size: 1.4em;
+  font-family: cursive;
+}
+
+.head1{
+  font-size: 2em;
+  font-family:  sans-serif;
+  font-weight:  bolder;
+}
+
+body{
+
+  background-color: hsla(120, 100%, 25%, 0.3);
+}
