@@ -1,6 +1,6 @@
 # PostMaster-Clone-of-PostMan
 
-PostMaster Clone of PostMan, Use to perform GET and POST request..
+PostMaster Clone of PostMan, Use to perform GET and POST request.
 
 Requirement:
 HTML
